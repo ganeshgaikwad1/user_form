@@ -8,9 +8,10 @@ steps to run
 
 
 you need database:-
-                  -go google and download any localserver like xampp.
+                  -go google and download any localserver like xampp.(This project use xampp)
                   -create database name is userphp.
-                  -create table user
+                  -create table user.
+                  -table attributr: fname,lname,dob,city,mob.
                   -
 
 
